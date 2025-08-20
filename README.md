@@ -19,11 +19,11 @@
 <h3 align="center">🤓 Bridging the digital and physical worlds, one project at a time</h3>
 <h4 align="center">⚡ Turning ideas into reality with code ⚡</h4>
 <p align="center">
-<div style="font-size: 1.1em;">
+<p style="font-size: 1.1em;">
   <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-yourwebsite.com-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
   <a href="mailto:sivsagar29112006@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Connect-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://in.linkedin.com/in/siv-sagar-114b6a2a9"><img src="https://img.shields.io/badge/LinkedIn-Professional_Persona-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-</div>
+</p>
 </p>
 
 <div align="center">
