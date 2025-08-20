@@ -18,13 +18,7 @@
 
 <h3 align="center">🤓 Bridging the digital and physical worlds, one project at a time</h3>
 <h4 align="center">⚡ Turning ideas into reality with code ⚡</h4>
-<p align="center">
-<a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-yourwebsite.com-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
 
-<a href="sivsagar29112006@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Connect-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-
-<a href="https://in.linkedin.com/in/siv-sagar-114b6a2a9"><img src="https://img.shields.io/badge/LinkedIn-Professional_Persona-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-</p>
 
 <div align="center">
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
@@ -37,7 +31,6 @@
 <li>🤖 IoT & Automation Enthusiast <em>making things smarter</em></li>
 <li>☕ Fueled by curiosity, powered by project-based learning</li>
 <li>💡 I don't always have a plan, but I always have a prototype</li>
-<li>🚀 Building DApps by day, tinkering with embedded tech by night</li>
 </ul>
 </div>
 </div>
