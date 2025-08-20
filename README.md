@@ -233,13 +233,13 @@
 
 <h2 align="center">🔗 Find Me in the Digital Wild</h2>
 <div align="center">
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/sivsagar">
 <img src="https://img.shields.io/badge/GitHub-Code_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://in.linkedin.com/in/siv-sagar-114b6a2a9">
 <img src="https://img.shields.io/badge/LinkedIn-Professional_Mode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:your-email@example.com">
+<a href="sivsagar29112006@gmail.com">
 <img src="https://img.shields.io/badge/Email-Instant_Response*-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://your-website.com">
