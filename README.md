@@ -13,7 +13,7 @@
 
 ### - I'm 18 years old Developer Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fbig-brain-gifs&psig=AOvVaw2hpivDpIcQA305p-10r_8n&ust=1755752431636000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD_zMzOmI8DFQAAAAAdAAAAABAE">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
