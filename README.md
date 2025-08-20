@@ -19,8 +19,8 @@
 
 ### - Currently Learning:
 - 🚀 Data Structures & Algorithms  
-- 🤖 Generative Adversarial Networks (GANs)  
-- 📡 Real-time IoT integrations with cloud  
+- 🤖 Full Stack Web Development  
+- 📡 Real-time IoT integrations with cloud and ROS 1 & ROS 2  
 
 ### - Hobbies:
 - 🚁 Drone Building & Repairing  
