@@ -14,15 +14,16 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Current_Status-Learning_something_new-orange?style=flat-square" alt="Current Status"/>
 <img src="https://img.shields.io/badge/Stack_Overflow_Visits-Daily-yellow?style=flat-square" alt="Stack Overflow"/>
-<img src="https://img.shields.io/badge/Last_Shower-I_think...-lightblue?style=flat-square" alt="Personal Hygiene"/>
 </div>
 
 <h3 align="center">🤓 Bridging the digital and physical worlds, one project at a time</h3>
 <h4 align="center">⚡ Turning ideas into reality with code ⚡</h4>
 <p align="center">
-<a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-yourwebsite.com-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Let's_Connect-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Professional_Persona-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<div style="font-size: 1.1em;">
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-yourwebsite.com-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:sivsagar29112006@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Connect-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://in.linkedin.com/in/siv-sagar-114b6a2a9"><img src="https://img.shields.io/badge/LinkedIn-Professional_Persona-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</div>
 </p>
 
 <div align="center">
