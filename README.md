@@ -13,7 +13,7 @@
 
 ### - I'm 18 years old Developer Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/BuxxcnJXnCgAAAAC/tenor.gif">
+<img hight="400" width="400" alt="GIF" align="right" src="https://c.tenor.com/BuxxcnJXnCgAAAAC/tenor.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
