@@ -62,7 +62,7 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="poddarbishal1994@gmail.com">
+<a href="sivsagar29112006@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://in.linkedin.com/in/siv-sagar-114b6a2a9">
