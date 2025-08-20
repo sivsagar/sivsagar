@@ -131,7 +131,7 @@
 <br>Raspberry Pi<br><sub>DIY Guru</sub>
 </td>
 <td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/arduino-icon.svg" alt="Arduino" width="60" height="60" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtbvT-UmBP4YwFvAAC5dNv4ycCrN5gfHzCi7g1BSFyn43Ro7bQTm0iNdoyhXmQTSS0yPk&usqp=CAU" alt="Arduino" width="60" height="60" />
 <br>Arduino/ESP32<br><sub>The Tinkerers' Friend</sub>
 </td>
 </tr>
