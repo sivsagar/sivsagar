@@ -157,16 +157,7 @@
 </table>
 </div>
 
-<div align="center">
-<h2>📊 GitHub Stats (The Good, Bad & Ugly)</h2>
-<div>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=radical" />
-</div>
-<br/>
-<div>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-github-username&theme=radical" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-github-username&theme=radical" />
-</div>
+
 <h3>🤓 Fun GitHub Facts</h3>
 <p>
 <img src="https://img.shields.io/badge/Commits_on_Friday_Evening-Too_Many-red?style=flat-square" alt="Friday Commits"/>
