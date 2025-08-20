@@ -69,3 +69,6 @@ If you want to reach out to me about anything — whether it's for a project, to
 </br>
 </br>
 </br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e72fc,100:ad1deb&height=120&section=footer&text=while(alive)%20%7B%20eat();%20sleep();%20code();%20repeat();%20%7D&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
+</div>
