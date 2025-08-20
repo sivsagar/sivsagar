@@ -9,7 +9,7 @@
 
 # About ME 💬
 
-<img height="300" width="300" align="right" alt="GIF" src="https://c.tenor.com/BuxxcnJXnCgAAAAC/tenor.gif">
+<img height="500" width="400" align="right" alt="GIF" src="https://c.tenor.com/BuxxcnJXnCgAAAAC/tenor.gif">
 
 ### - I'm an 18-year-old Developer Enthusiast and 2nd-year B.Tech Computer Science student from India.
 
