@@ -9,13 +9,7 @@
 (Powered by curiosity and code)
 </pre>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-<img src="https://img.shields.io/badge/Projects_Built-Countless-C11111?style=for-the-badge&logo=codecademy&logoColor=white" alt="Projects Built"/>
-<img src="https://img.shields.io/badge/Lines_of_Code-A_Lot-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="Lines of Code"/>
-<img src="https://img.shields.io/badge/Caffeine_Tolerance-High-brown?style=for-the-badge&logo=coffee&logoColor=white" alt="Coffee Consumed"/>
-<img src="https://img.shields.io/badge/Hours_Debugging-Too_Many-red?style=for-the-badge&logo=timer&logoColor=white" alt="Debug Hours"/>
-</div>
+
 
 <div align="center">
 <img src="https://img.shields.io/badge/Current_Status-Learning_something_new-orange?style=flat-square" alt="Current Status"/>
