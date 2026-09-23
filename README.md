@@ -25,7 +25,7 @@
 <div align="left" width="50%">
 <h2>👨‍💻 About Me (The Honest Version)</h2>
 <ul>
-<li>🎓 2nd-year B.Tech CSE student <em>passionate and curious</em></li>
+<li>🎓 3rd-year B.Tech CSE student <em>passionate and curious</em></li>
 <li>💻 Full-Stack Web Developer <em>bringing ideas to life</em></li>
 <li>📱 Cross-Platform App Developer <em>crafting smooth user experiences</em></li>
 <li>🤖 IoT & Automation Enthusiast <em>making things smarter</em></li>
