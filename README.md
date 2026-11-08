@@ -1,290 +1,68 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e72fc,100:ad1deb&height=200&section=header&text=Siv%20Sagar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20|%20App%20Dev%20|%20IoT%20Enthusiast&descAlignY=60&descAlign=50" width="100%" />
-</div>
-
-<pre align="center">
-┌─┐┌─┐┌┬┐┌─┐ ┌─┐┌┐┌┌┬┐ ┌─┐┬ ┬┌┐ ┌─┐┬─┐
-│ │ │ ││├┤ ├─┤│││ ││ │ └┬┘├┴┐├┤ ├┬┘
-└─┘└─┘─┴┘└─┘ ┴ ┴┘└┘─┴┘ └─┘ ┴ └─┘└─┘┴└─
-(Powered by curiosity and code)
-</pre>
-
-
-
-<div align="center">
-<img src="https://img.shields.io/badge/Current_Status-Learning_something_new-orange?style=flat-square" alt="Current Status"/>
-<img src="https://img.shields.io/badge/Stack_Overflow_Visits-Daily-yellow?style=flat-square" alt="Stack Overflow"/>
-</div>
-
-<h3 align="center">🤓 Bridging the digital and physical worlds, one project at a time</h3>
-<h4 align="center">⚡ Turning ideas into reality with code ⚡</h4>
-
-
-<div align="center">
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
-<div align="left" width="50%">
-<h2>👨‍💻 About Me (The Honest Version)</h2>
-<ul>
-<li>🎓 3rd-year B.Tech CSE student <em>passionate and curious</em></li>
-<li>💻 Full-Stack Web Developer <em>bringing ideas to life</em></li>
-<li>📱 Cross-Platform App Developer <em>crafting smooth user experiences</em></li>
-<li>🤖 IoT & Automation Enthusiast <em>making things smarter</em></li>
-<li>☕ Fueled by curiosity, powered by project-based learning</li>
-<li>💡 I don't always have a plan, but I always have a prototype</li>
-</ul>
-</div>
-</div>
-<br clear="both">
-
-<div align="center">
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="500px" alt="Funny Divider"/>
-</div>
-
-<h2 align="center">📊 Current Developer Mood</h2>
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100px" alt="Confused"/>
-<br>When the code I wrote<br>yesterday makes no sense
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100px" alt="Panic"/>
-<br>When a sensor returns<br>unexpected values
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/24S6K4lfKwHBu/giphy.gif" width="100px" alt="Coffee"/>
-<br>Before my first<br>cup of coffee
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100px" alt="Happy"/>
-<br>When the prototype<br>finally works
-</td>
-</tr>
-</table>
-</div>
-
-<h2 align="center">💫 My Arsenal of Digital & Physical Tools</h2>
-<div align="center">
-<h3>🔤 Core Languages</h3>
-<p>
-<img src="https://img.shields.io/badge/JavaScript-🤪_Chaos_Creator-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-🐍_Snake_Charmer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C%2B%2B-⚡_Fast_&_Furious-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Dart-🎯_Flutter's_BFF-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<h1 align="center">Siv Sagar</h1>
+<p align="center">
+  <b>Embedded Systems | UAV Flight Firmware | Wearable Health Tech | Edge AI</b><br/>
+  B.Tech CSE (3rd year) at Adamas University, Kolkata
 </p>
 
-<h3>🌐 Web & DApp Development</h3>
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
-<br>React.js<br><sub>Full-Stack Hero</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />
-<br>Node.js<br><sub>Backend Power</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express.js" />
-<br>Express.js<br><sub>API Builder</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
-<br>HTML5<br><sub>The Foundation</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
-<br>CSS3<br><sub>Styling Wizard</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=web3" width="60" height="60" alt="Web3" />
-<br>Web3<br><sub>Decentralized Degen</sub>
-</td>
-</tr>
-</table>
-
-<h3>📱 App & Embedded Development</h3>
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React Native" />
-<br>React Native<br><sub>Cross-Platform Magic</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=flutter" width="60" height="60" alt="Flutter" />
-<br>Flutter<br><sub>Beautiful UI</sub>
-</td>
-<td align="center" width="90">
-<img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="60" height="60" alt="Embedded Systems"/>
-<br>Embedded Tech<br><sub>Bridging Worlds</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=raspberrypi" width="60" height="60" alt="Raspberry Pi" />
-<br>Raspberry Pi<br><sub>DIY Guru</sub>
-</td>
-<td align="center" width="90">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtbvT-UmBP4YwFvAAC5dNv4ycCrN5gfHzCi7g1BSFyn43Ro7bQTm0iNdoyhXmQTSS0yPk&usqp=CAU" alt="Arduino" width="60" height="60" />
-<br>Arduino/ESP32<br><sub>The Tinkerers' Friend</sub>
-</td>
-</tr>
-</table>
-
-<h3>🗄️ Databases & UI/UX</h3>
-<table>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL" />
-<br>PostgreSQL<br><sub>Relationship Goals</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
-<br>MongoDB<br><sub>NoSQL Rebel</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" />
-<br>Firebase<br><sub>Magic Backend</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
-<br>Figma<br><sub>UI/UX Artist</sub>
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/3o7TKBH63o9aMh3t1K/giphy.gif" width="60" height="60" alt="UI/UX"/>
-<br>Prototyping<br><sub>UX Detective</sub>
-</td>
-</tr>
-</table>
-</div>
-
-
-<h3>🤓 Fun GitHub Facts</h3>
-<p>
-<img src="https://img.shields.io/badge/Commits_on_Friday_Evening-Too_Many-red?style=flat-square" alt="Friday Commits"/>
-<img src="https://img.shields.io/badge/Commit_Messages-'WIP'-yellow?style=flat-square" alt="Commit Messages"/>
-<img src="https://img.shields.io/badge/Code_Reviews-Accept_PRs_Pls-blue?style=flat-square" alt="Code Reviews"/>
-<img src="https://img.shields.io/badge/README_Files-Outdated-orange?style=flat-square" alt="README Status"/>
+<p align="center">
+  <a href="https://linkedin.com/in/siv-sagar-114b6a2a9"><img src="https://img.shields.io/badge/LinkedIn-Siv_Sagar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sivsagar29112006@gmail.com"><img src="https://img.shields.io/badge/Email-sivsagar29112006@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/AyuScan"><img src="https://img.shields.io/badge/Team-AyuScan-181717?style=for-the-badge&logo=github&logoColor=white" alt="AyuScan GitHub organization"/></a>
 </p>
-</div>
 
-<h2 align="center">🏆 Epic Achievements & Questionable Life Choices</h2>
-<div align="center">
-<table>
-<tr>
-<td align="center" width="250">
-<img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="80px" height="80px" alt="IoT">
-<br> <strong>🤖 IoT Sorcerer</strong> <br> Smart home systems built <br> <sub>(Actually controls the lights)</sub> <br> <em>"I talk to my devices"</em>
-</td>
-<td align="center" width="250">
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="80px" height="80px" alt="App Dev">
-<br> <strong>📱 App Whisperer</strong> <br> Real-time data apps <br> <sub>(Because latency is a myth)</sub> <br> <em>"Seamless is my middle name"</em>
-</td>
-<td align="center" width="250">
-<img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="80px" height="80px" alt="Coffee">
-<br> <strong>☕ Coffee Connoisseur</strong> <br> ∞ cups consumed <br> <sub>Caffeine Tolerance: Maximum</sub> <br> <em>"Coffee is my co-pilot"</em>
-</td>
-</tr>
-</table>
-</div>
+---
 
-<h2 align="center">😂 Daily Programmer Humor</h2>
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="150px" alt="Programming Joke"/>
-<br> <strong>Why do programmers prefer dark mode?</strong> <br> <em>Because light attracts bugs! 🐛</em>
-</td>
-</tr>
-<tr>
-<td align="center"> <strong>How do you comfort a JavaScript developer?</strong> <br> <em>You console.log() them.</em> </td>
-</tr>
-</table>
-</div>
+## About
 
-<h2 align="center">🎯 Current Mission Status</h2>
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100px" alt="Learning"/>
-<br> <strong>📚 Learning</strong> <br> Advanced Web3 and blockchain <br> <sub>Progress: 67%</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100px" alt="Building"/>
-<br> <strong>🛠️ Building</strong> <br> A smart drone system <br> <sub>Status: "It works on my bench"</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif" width="100px" alt="UI/UX"/>
-<br> <strong>🎨 Designing</strong> <br> High-fidelity prototypes <br> <sub>Focus: User-centric design</sub>
-</td>
-</tr>
-</table>
-</div>
+I build hardware and software that work together: flight firmware, sensor-driven wearables and real-time vision on small devices. I am a DGCA-certified drone pilot and the Student Coordinator of the Adamas Robotics & AI Club, where I run UAV and robotics workshops for junior students.
 
-<h2 align="center">🔗 Find Me in the Digital Wild</h2>
-<div align="center">
-<a href="https://github.com/sivsagar">
-<img src="https://img.shields.io/badge/GitHub-Code_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://in.linkedin.com/in/siv-sagar-114b6a2a9">
-<img src="https://img.shields.io/badge/LinkedIn-Professional_Mode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="sivsagar29112006@gmail.com">
-<img src="https://img.shields.io/badge/Email-Instant_Response*-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://your-website.com">
-<img src="https://img.shields.io/badge/Website-Digital_Home-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-</a>
-</div>
-<p align="center"><sub>*Response time may vary depending on project deadlines</sub></p>
+- Porting the ArduCopter flight stack to an indigenous RISC-V board for NIDAR 2026-27 (Team PROJECT DELI)
+- Built AyuScan, a wearable patient-monitoring system, and its camera-based extension, AyuScan Contactless
+- Completed an embedded firmware internship at C-DAC CINE, IIT Guwahati
+- Looking for research and engineering internships in UAV systems, embedded firmware, edge AI and health tech
 
-<h2 align="center">🎲 Random Developer Facts</h2>
-<div align="center">
-<table>
-<tr>
-<td>⌨️</td>
-<td>I can type faster after midnight</td>
-</tr>
-<tr>
-<td>💡</td>
-<td>My best ideas come from random tinkering</td>
-</tr>
-<tr>
-<td>🤖</td>
-<td>The code I write in my sleep is surprisingly efficient</td>
-</tr>
-<tr>
-<td>📈</td>
-<td>My code-to-coffee ratio is 1:1</td>
-</tr>
-<tr>
-<td>🔍</td>
-<td>Stack Overflow is my second home</td>
-</tr>
-<tr>
-<td>✨</td>
-<td>I believe in the magic of clean UI</td>
-</tr>
-</table>
-</div>
+## Featured projects
 
+| Project | What it is | Stack |
+|---|---|---|
+| **VEGAPilot** | ArduCopter flight stack ported to the C-DAC ARIES v3 board (THEJAS32 / VEGA ET1031, RV32IM, no hardware FPU, 256 KB RAM). Replaced the heavy EKF with DCM attitude estimation and a lightweight altitude complementary filter, re-scheduled the main loop to 100 Hz, and built the Linux HAL for the IMU, barometer, compass, ELRS receiver and PWM outputs. Tested in SITL. | C++, Embedded Linux, RISC-V, ArduPilot |
+| **AyuScan + ReHAP** | Low-cost wrist-worn patient monitor (ECG, heart rate, SpO2, temperature, motion) streaming over BLE to a Raspberry Pi hub with a multi-patient dashboard and three on-hub AI models. ReHAP is a behind-the-ear haptic alert that warns patients without a screen or alarm. | ESP32-C6, BLE, PyTorch, XGBoost, React |
+| **AyuScan Contactless** | Offline, camera-based vital sign and fall detection. MediaPipe landmarks feed PyTorch models for stress and fall detection, shown on a live dashboard. No video is stored or sent. | Raspberry Pi 5, MediaPipe, PyTorch, Flask, React |
+| **Hydrocheck** | Wrist-worn dehydration and heat-stress wearable fusing GSR, PPG and IR temperature sensing, with an on-device TinyML risk classifier and BLE telemetry to a mobile app. | ESP32, TinyML, BLE, React/Capacitor |
+| **AI-Powered Surveillance Drone** | Multi-sensor drone with YOLO detection (85%+ accuracy), GPS/IMU waypoint navigation (2 m or better path accuracy), 5 km+ telemetry and LiDAR obstacle avoidance. | Pixhawk, Raspberry Pi 5, YOLO, Python/C++ |
+| **RC Bomb Detection Car** | Remote-controlled hazard-detection vehicle with 720p ESP32-CAM streaming, GPS tracking and GSM communication. | ESP32-CAM, GPS, GSM |
 
+Code for the AyuScan projects lives in the [AyuScan organization](https://github.com/AyuScan).
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e72fc,100:ad1deb&height=120&section=footer&text=while(alive)%20%7B%20eat();%20sleep();%20code();%20repeat();%20%7D&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
-</div>
+## Experience
 
-<div align="center">
-<details>
-<summary>🔐 Secret Message for Curious Developers</summary>
-<br>
-<img src="https://media.giphy.com/media/3ornka9rAaKRA2Rkac/giphy.gif" width="200px" alt="Secret"/>
-<br>
-<strong>You found the secret section! 🎊</strong>
-<br>
-<em>Here's a virtual high-five from one creator to another! ✋</em>
-<br><br>
-<sub>Fun fact: I find more joy in building a working prototype than in writing a polished README 😅</sub>
-</details>
-</div>
+- **Embedded IoT Intern, C-DAC CINE, IIT Guwahati** (Jul to Aug 2026): firmware and LVGL touchscreen interfaces for a radiation survey meter on ESP32 and STM32, including Wi-Fi provisioning, live sensor display, configurable thresholds and SD card logging, validated on target hardware.
+- **Student Coordinator, Adamas Robotics & AI Club** (May 2026 to present): lead club operations and run UAV and robotics workshops, covering ArduPilot/PX4, flight controller tuning and drone assembly.
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,bash,html,css,react,flask,pytorch,tensorflow,opencv,raspberrypi,arduino,linux,git,github" alt="Tech stack icons"/>
+</p>
+
+| Area | Tools |
+|---|---|
+| **Languages** | Python, C, C++, Embedded C, Java, Bash, JavaScript, HTML5, CSS |
+| **UAV and flight control** | ArduPilot/ArduCopter (porting, HAL, scheduler), PX4, Betaflight, MAVLink, Mission Planner, QGroundControl, SITL, PID tuning |
+| **Hardware** | RISC-V (RV32IM, THEJAS32, ARIES v3), ESP32, STM32, Raspberry Pi 5, Pixhawk, Arduino, BLE, RTOS, UART/I2C/SPI/CAN, PWM |
+| **Controls and estimation** | Complementary filter, DCM, Kalman filter/EKF, biquad filters, sensor fusion |
+| **AI/ML and vision** | YOLO, TinyML, TensorFlow Lite, PyTorch, XGBoost, OpenCV, MediaPipe, edge inference |
+| **Tools and design** | Flask, React, Git, Waf, GCC cross-toolchains, EasyEDA, Fusion 360, SolidWorks, 3D printing (PLA/PETG/TPU) |
+
+## Highlights
+
+- Grand Winner (Healthcare Sector), Project Morpheus 2026, SIT Lonavala
+- 1st Prize, National Workshop on Innovative & Sustainable Technologies, IIC Jadavpur University
+- 9th Position, Tech Expo 2026, IIT Guwahati
+- 1st Position in Robo Soccer and Line Follower (Signifiya 2026) and Robo Terrain (Signifiya 2025)
+- Participant, CodeBot Hackathon, ARTPARK IISc Bangalore and TIH IIT Bombay
+- DGCA Certified Drone Pilot (Small Category)
+
+## Get in touch
+
+I am open to research internships and collaborations in UAV systems, embedded firmware, edge AI and wearable health tech. The best way to reach me is by [email](mailto:sivsagar29112006@gmail.com) or [LinkedIn](https://linkedin.com/in/siv-sagar-114b6a2a9).
