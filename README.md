@@ -21,16 +21,7 @@ I build hardware and software that work together: flight firmware, sensor-driven
 - Completed an embedded firmware internship at C-DAC CINE, IIT Guwahati
 - Looking for research and engineering internships in UAV systems, embedded firmware, edge AI and health tech
 
-## Featured projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **VEGAPilot** | ArduCopter flight stack ported to the C-DAC ARIES v3 board (THEJAS32 / VEGA ET1031, RV32IM, no hardware FPU, 256 KB RAM). Replaced the heavy EKF with DCM attitude estimation and a lightweight altitude complementary filter, re-scheduled the main loop to 100 Hz, and built the Linux HAL for the IMU, barometer, compass, ELRS receiver and PWM outputs. Tested in SITL. | C++, Embedded Linux, RISC-V, ArduPilot |
-| **AyuScan + ReHAP** | Low-cost wrist-worn patient monitor (ECG, heart rate, SpO2, temperature, motion) streaming over BLE to a Raspberry Pi hub with a multi-patient dashboard and three on-hub AI models. ReHAP is a behind-the-ear haptic alert that warns patients without a screen or alarm. | ESP32-C6, BLE, PyTorch, XGBoost, React |
-| **AyuScan Contactless** | Offline, camera-based vital sign and fall detection. MediaPipe landmarks feed PyTorch models for stress and fall detection, shown on a live dashboard. No video is stored or sent. | Raspberry Pi 5, MediaPipe, PyTorch, Flask, React |
-| **Hydrocheck** | Wrist-worn dehydration and heat-stress wearable fusing GSR, PPG and IR temperature sensing, with an on-device TinyML risk classifier and BLE telemetry to a mobile app. | ESP32, TinyML, BLE, React/Capacitor |
-| **AI-Powered Surveillance Drone** | Multi-sensor drone with YOLO detection (85%+ accuracy), GPS/IMU waypoint navigation (2 m or better path accuracy), 5 km+ telemetry and LiDAR obstacle avoidance. | Pixhawk, Raspberry Pi 5, YOLO, Python/C++ |
-| **RC Bomb Detection Car** | Remote-controlled hazard-detection vehicle with 720p ESP32-CAM streaming, GPS tracking and GSM communication. | ESP32-CAM, GPS, GSM |
 
 Code for the AyuScan projects lives in the [AyuScan organization](https://github.com/AyuScan).
 
